@@ -1,5 +1,5 @@
 # projeodevi
-Algoritma Proje Odevi
+Algoritma ve Programlama Proje Odevi
 
 ÖZET: 3000 karakteri aşmayacak bir metin kullanıcı tarafından girilir.
 Girilen metin yabancı karakterlerden temizlenir.
